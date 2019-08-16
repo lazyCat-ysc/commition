@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<body>
+  <mainCmd>
+    <cmd key = "0" name ="HandleSysMsg"></cmd>
+  </mainCmd>
+  <subCmd>
+    <cmd key = "0" name ="HandleUpdateHeartBeat"></cmd>
+    <cmd key = "1" name ="HandleTalk"></cmd>
+  </subCmd>  
+</body>
